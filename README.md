@@ -1,5 +1,5 @@
 # Property_AI: Model development
-Developing an ML analysis of a real estate industry.
+Developing an ML model of a real estate industry.
 
 ## Data and code for the following steps:
   - Data cleaning and preprocessing (`Python`)
